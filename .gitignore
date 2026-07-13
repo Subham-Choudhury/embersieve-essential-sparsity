@@ -1,0 +1,11 @@
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+logs/
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
